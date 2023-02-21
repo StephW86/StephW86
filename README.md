@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Steph</h1>
 <h3 align="center">A full stack developer from Brighton, UK who loves to learn</h3>
 
-- 🌱 I’m currently learning **Node.js, React, SQL, Python**
+- 🌱 I’m currently learning **React.js, Express.js**
 
 - 💬 Ask me about **Ruby, Ruby on Rails, CSS, Bootstrap, Adobe Photoshop**
 
