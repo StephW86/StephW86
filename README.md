@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Steph</h1>
 <h3 align="center">A full stack developer from Brighton, UK who loves to learn</h3>
 
-- 🌱 I’m currently learning **React.js, Express.js**
+- 💬 Ask me about **Ruby, Ruby on Rails, CSS, Adobe Photoshop**
 
-- 💬 Ask me about **Ruby, Ruby on Rails, CSS, Bootstrap, Adobe Photoshop**
-
-- 📫 How to reach me **stephwood10@hotmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/stephanie-wood-94371164/**
 
 - ⚡ Fun fact **I like to DJ and learn about history**
 
